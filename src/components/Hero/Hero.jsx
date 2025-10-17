@@ -11,7 +11,7 @@ export function Hero({ theme, colors, onScrollToSection }) {
         <div className="animate-fade-in">
           <h1 className={`text-5xl sm:text-6xl lg:text-7xl font-bold mb-6 ${theme === 'dark' ? 'text-white' : 'text-slate-900'
             }`}>
-            I'm Tauheed
+            I'm Shakib Ul Hassan
           </h1>
           <p className={`font-mono font-semibold text-xl sm:text-2xl mb-8 max-w-2xl mx-auto ${theme === 'dark' ? 'text-white/80' : 'text-slate-600'
             }`}> 
@@ -40,7 +40,7 @@ export function Hero({ theme, colors, onScrollToSection }) {
               }`}>
               <Github className="w-10 h-10" />
             </a>
-            <a target='_blank' href="https://www.linkedin.com/in/mohd-tauheed-ansari/" className={`transition-colors ${theme === 'dark' ? 'text-white hover:text-blue-600' : 'text-slate-900 hover:text-blue-700'
+            <a target='_blank' href="https://www.linkedin.com/in//" className={`transition-colors ${theme === 'dark' ? 'text-white hover:text-blue-600' : 'text-slate-900 hover:text-blue-700'
               }`}>
               <Linkedin className="w-10 h-10" />
             </a>

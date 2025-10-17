@@ -23,7 +23,7 @@ export function About({ theme, colors }) {
           <div className="space-y-6 scroll-animate">
             <p className={`text-lg leading-relaxed ${theme === 'dark' ? 'text-slate-300' : 'text-slate-700'
               }`}>
-              Hi, I’m <strong>  Mohd Tauheed Ansari </strong>, a passionate <strong>Front-End Developer</strong> who loves building clean, responsive, and user-friendly web applications.
+              Hi, I’m <strong>  Shakib ul Hassan </strong>, a passionate <strong>Front-End Developer</strong> who loves building clean, responsive, and user-friendly web applications.
               I specialize in React.js, Tailwind CSS, and modern JavaScript frameworks, and I’m always eager to learn new technologies.
               I enjoy turning creative ideas into real, interactive experiences on the web.
             </p>
